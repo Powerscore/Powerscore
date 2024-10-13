@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I am a Computer Science Student at the German International University, looking to contribute to a more united world through AI projects and research!
 
 <!--
 
