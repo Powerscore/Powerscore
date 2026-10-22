@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am a Computer Science Student at Technische Hochschule Ulm (THU), looking to contribute to a more united world through impactful projects and research!
+### I am an Intelligent Systems Master Student at Technische Hochschule Ulm (THU), looking to contribute to a more united world through impactful projects and research!
 
 -🔭 I’m currently building AI systems that automate architectural compliance, reduce manual review time, and integrate computer vision, language models, and full-stack deployment.
 -🌱 I’m currently learning RAG | Unsupervised Anomaly Detection | German B1
